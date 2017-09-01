@@ -4,11 +4,16 @@ This is an overview and guidelines of how to use the Knowledge Base
 <h2>Overview</h2>
 Welcome to Vokke's Knowledge Base.
 
-This is wehre we store processes, resources and any other information that is useful.
+This is where we store our processes, resources and any other information that is useful.
 
 <h2>Philosophy</h2>
+Our Knowledge Base is:
 
-The philosophy of the Knowledge Base is that it is a living, breathing resource that anyone in the team can contribute to.
+<ul>
+<li>A living, breathing resource</li>
+<li>Open to all team members to contribute to</li>
+<li>Simple and easy to navigate</li>
+</ul>
 
 <h2>What belongs in the Knowledge Base</h2>
 We will add .....
@@ -21,3 +26,9 @@ How to use the wiki feature
 
 <h2>Slack integration</h2>
 We can integrate Slack with the Knowledge Base so the team gets real-time updates when questions are asked or answered.
+
+<h2>Naming conventions</h2>
+Our GitHub account is also used as part of our development process so to ensure that anything related to our Knowledge Base can be easily located, 
+
+Any resources that are added to the Knowledge Base must be named according to the 
+
