@@ -1,4 +1,4 @@
-# Vokke-Knowledge-Base
+# Vokke's Knowledge Base
 This is an overview of how to use our knowledge base
 
 <h2>Overview</h2>
